@@ -18,5 +18,6 @@ Data Pipeline for currency, cryptocurrency and stock prices with data marts visu
 
 ### Data Pipeline Scheme
 
+![Stock Market Data Pipeline Scheme](https://github.com/plenzke/stock-market-dwh/assets/47403764/b813a427-61ad-40cd-b724-d2fc29e50f03)
 
 > **Note:** This project has been created for educational purposes only.
