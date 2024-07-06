@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "weather-datavault"
+name = "stock-market-dwh"
 version = "0.1.0"
 description = ""
 authors = ["plenzke <3njoyth3sil3nc399@gmail.com>"]
